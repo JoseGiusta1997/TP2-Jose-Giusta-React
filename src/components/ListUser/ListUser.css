@@ -1,0 +1,8 @@
+.Cards-List {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+  .img{
+    height: 350px;
+    display: flex;
+  }

@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.informacion{
+  margin-top: 160px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 50px;
+  background-color:  rgb(29, 121, 192);
+  color: beige;
+  border: solid black;
+}
+
+.descripcion{
+  width: 60vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-size: 35px;
+  background-color:  rgb(29, 121, 192);
+  color: beige;
+  border: solid black;
+}
+.descripcion2{
+  align-items: center;
+  height: 600px;
+  width: 40vh;
+  display:grid ;
+  text-align: center;
+  font-size: 25px;
+  color: beige;
+  border: solid black;
+}

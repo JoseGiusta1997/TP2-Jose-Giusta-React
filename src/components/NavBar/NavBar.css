@@ -1,0 +1,25 @@
+.nav-container {
+	background-color: rgb(29, 121, 192);
+    height: 5vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    border: solid black;
+    margin-top: 15px;
+  }
+  
+  .nav-ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 15px;
+    font-size: 18px;
+  }
+  
+  .li {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+  }
+  
